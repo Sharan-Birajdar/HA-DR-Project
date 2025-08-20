@@ -1,6 +1,7 @@
 # High Availability & Disaster Management on AWS
 
-https://github.com/Sharan-Birajdar/HA-DR-Project/blob/ba82345a32a87c5cb7e253a3a3a12b3bfdfb25a0/Images/Architecture.png?raw=true
+![Uploading image.png…]()
+
 
 ## 📌 Project Overview
 
