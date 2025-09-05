@@ -1,11 +1,11 @@
-# High Availability & Disaster Management on AWS
+# High Availability & Disaster Recovery Management on AWS
 
 ![image alt](https://github.com/Sharan-Birajdar/HA-DR-AWS-Project/blob/main/doc/Images/Architecture.png?raw=true)
 
 
 ## 📌 Project Overview
 
-This project demonstrates the design and deployment of a **highly available and disaster-resilient architecture on AWS**.
+This project demonstrates the design and deployment of a **highly available and disaster-recovery architecture on AWS**.
 The setup ensures:
 
 * **High Availability (HA):** Applications remain online even during failures.
